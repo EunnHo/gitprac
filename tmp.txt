@@ -1,4 +1,2 @@
-function a() {
-	const a = 123;
-	const b = 456;
-}
+function a () {}
+function b () {}
