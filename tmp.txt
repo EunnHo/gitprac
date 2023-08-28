@@ -1,5 +1,4 @@
 function a() {
 	const a = 123;
-	// 이 부분은 에러입니다.
 	const b = 456;
 }
